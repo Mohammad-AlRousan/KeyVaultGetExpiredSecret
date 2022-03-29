@@ -6,3 +6,6 @@ In some cases where you can't use Azure Logic App to achive this, you can easily
 
 
 ## How to
+![Run the script from Azure CLI](./RunScript1.jpg)
+
+![Output from Azure CLI](./ScriptResult.jpg)
